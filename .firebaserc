@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "Weather Fabry": "weather-app-fabry",
+    "default": "weather-app-fabry"
+  }
+}
